@@ -15,4 +15,3 @@ Here is the example of our dataset:
 
 Download link: 
 https://pan.baidu.com/s/18lzfNgGvoehyHwsQ82Nxew
-password: vpcj
