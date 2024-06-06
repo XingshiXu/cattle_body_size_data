@@ -14,4 +14,4 @@ Here is the example of our dataset:
 ![image](https://github.com/XingshiXu/cattle_body_size_data/blob/main/DataExample/0%20(47)_0.jpg)
 
 Download link: 
-https://pan.baidu.com/s/18lzfNgGvoehyHwsQ82Nxew
+Email to Xu
